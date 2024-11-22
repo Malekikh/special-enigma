@@ -2,4 +2,5 @@
 
 echo "Hello, world!"
 
-echo "This is edit on my computer"
+echo "This is a combined change which was done on my computer and github.com"
+
