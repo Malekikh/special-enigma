@@ -2,4 +2,4 @@
 
 echo "Hello, world!"
 
-echo "This is my change on github"
+echo "This is my change on github - conflict change "
